@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pomni idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "pomni left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "pomni down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "pomni up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "pomni right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/mcpomni",
+	"position": [
+		-170,
+		100
+	],
+	"healthicon": "pomni-minecraft",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		235
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}
